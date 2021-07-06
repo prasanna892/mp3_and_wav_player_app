@@ -20,5 +20,7 @@
  2) pip install pygame
  
  3) pip install tk
+ 
+ 4) LINK FOR 7zip - https://www.7-zip.org
 
 if there is any bug conduct me at any time : k.prasannagh@gmail.com
