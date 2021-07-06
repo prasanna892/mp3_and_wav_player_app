@@ -13,6 +13,12 @@
 
  4) STYLISH LOOK AND COMPACTIBLE PLAYER
 
+# MODULE'S TO INSTALL
 
+ 1) pip install mutagen
+ 
+ 2) pip install pygame
+ 
+ 3) pip install tk
 
 if there is any bug conduct me at any time : k.prasannagh@gmail.com
